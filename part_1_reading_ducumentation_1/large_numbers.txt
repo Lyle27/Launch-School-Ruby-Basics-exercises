@@ -1,0 +1,3 @@
+5. Using the ruby documentation, determine how you can write large numbers in a way that makes them easier to read.
+
+A: You can write large numbers by using underscores to separate groups of digits 1_234

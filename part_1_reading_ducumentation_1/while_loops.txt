@@ -1,0 +1,9 @@
+2. Locate the description of the while loop in the ruby documentation.
+
+A: http://ruby-doc.org/core-2.4.1/doc/syntax/control_expressions_rdoc.html then search for "while loop"
+
+Select the core API link  2.4.1.
+
+Select the "control expressions" link.
+
+Search within the page for "while loop".
